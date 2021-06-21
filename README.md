@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **hanehaneland/hanehaneland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hanehaneland&count_private=true&show_icons=true&count_private=true"/>
+    </a>
+    <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanehaneland&layout=compact"/>
+    </a> -->
+</div>
